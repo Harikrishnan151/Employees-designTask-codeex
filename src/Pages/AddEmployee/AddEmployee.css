@@ -1,0 +1,11 @@
+.heading{
+    text-align: left;
+    color: black;
+}
+.formHeading{
+    text-align: start;
+}
+.buttonContainer{
+    display: flex;
+    flex-direction: row;  
+}
